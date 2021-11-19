@@ -1,4 +1,4 @@
-# # Hello!
+#  Hello!
 #
 # This lab teaches basic Ruby function syntax.
 #
